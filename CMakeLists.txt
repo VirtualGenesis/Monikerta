@@ -3,4 +3,4 @@ project(Ohjelmointi_1_ C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(Ohjelmointi_1_ main.c)
+add_executable(Ohjelmointi_1_ monikerta.c)
