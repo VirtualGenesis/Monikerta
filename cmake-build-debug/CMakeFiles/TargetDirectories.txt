@@ -1,0 +1,3 @@
+C:/Users/OMISTAJA/CLionProjects/Ohjelmointi 1/cmake-build-debug/CMakeFiles/Ohjelmointi_1_.dir
+C:/Users/OMISTAJA/CLionProjects/Ohjelmointi 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/OMISTAJA/CLionProjects/Ohjelmointi 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
